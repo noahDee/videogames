@@ -5,6 +5,7 @@ html {
 nav {
   background: black;
   padding-left: 40%;
+  position: fixed;
 }
 
 div {
